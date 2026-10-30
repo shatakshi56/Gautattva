@@ -1,0 +1,172 @@
+{
+  "brand": {
+    "name": "GauTattva ORGANICS",
+    "tagline": "Rooted in tradition, inspired by purity",
+    "description": "Authentic A2 Gir Cow Vedic Bilona Ghee handcrafted in traditional earthen pots from grass-fed indigenous Indian Gir cows.",
+    "manufacturer": {
+      "name": "DEALKARTS",
+      "address": "G2 1/55, Aanchal Apartment, Roshan Marg, Gandhi Path, Vaishali Nagar, Jaipur - 302021 (Rajasthan), India",
+      "fssai_certified": true,
+      "organic_certified": true,
+      "customer_care": {
+        "phone": "+91 9057000446",
+        "email": "care@gautattvaorganics.com"
+      }
+    }
+  },
+  "product": {
+    "name": "A2 Gir Cow Vedic Bilona Ghee",
+    "category": "Organic Ayurvedic Superfood",
+    "shelf_life": "12 months from packaging date",
+    "packaging": "Eco-friendly recyclable food-grade glass jar with air-tight seal",
+    "variants": [
+      {
+        "id": "500ml",
+        "size": "500 ML",
+        "weight": "approx. 460g net",
+        "price": 1432,
+        "mrp": 1790,
+        "discount_percent": 20,
+        "days_supply": 25,
+        "reorder_nudge_day": 25,
+        "tag": "Launching Offer 20% Off",
+        "description": "Perfect for individual health enthusiasts and daily morning rituals. Lasts ~25 days at 1-2 spoons daily."
+      },
+      {
+        "id": "1000ml",
+        "size": "1 Litre",
+        "weight": "approx. 910g net",
+        "price": 2632,
+        "mrp": 3290,
+        "discount_percent": 20,
+        "days_supply": 50,
+        "reorder_nudge_day": 50,
+        "tag": "Most Popular",
+        "is_best_seller": true,
+        "description": "The quintessential household pack for families of 3-4. Lasts ~50 days for daily cooking, rotis & milk."
+      },
+      {
+        "id": "2000ml",
+        "size": "2 Litres",
+        "weight": "approx. 1820g net",
+        "price": 5112,
+        "mrp": 6390,
+        "discount_percent": 20,
+        "days_supply": 90,
+        "reorder_nudge_day": 90,
+        "tag": "Family Pack",
+        "description": "Family wellness pack for holistic ayurvedic nutrition. Lasts ~90 days."
+      },
+      {
+        "id": "5000ml",
+        "size": "5 Litres",
+        "weight": "approx. 4550g net",
+        "price": 12392,
+        "mrp": 15490,
+        "discount_percent": 20,
+        "days_supply": 180,
+        "reorder_nudge_day": 180,
+        "tag": "Mega Saver Bulk Pack",
+        "description": "Premium bulk pack for larger households, havans, and long-term Ayurvedic wellness. Lasts ~180 days."
+      }
+    ]
+  },
+  "lab_report": {
+    "laboratory": "JAGDAMBA LABORATORIES (OPC) PVT. LTD.",
+    "accreditation": "Govt. Approved Test House • ISO 9001:2015 • GLP Certified Lab",
+    "address": "119, Solitaire Industrial Park, Phase-1, Dahmi Kallan, Bagru, Jaipur - 303007 (Rajasthan)",
+    "report_number": "JLFD260702144",
+    "report_release_date": "07/07/2026",
+    "sample_name": "GIR COW GHEE",
+    "sample_submitted_by": "DEALKARTS G2 1/55, AANCHAL APARTMENT, ROSHAN MARG, GANDHI PATH, VAISHALI NAGAR, JAIPUR-302021",
+    "verified_parameters_per_100g": [
+      { "parameter": "Calories (Energy)", "result": "898.65 kcal", "rda": "44.93%", "method": "JL/CS/STP/015" },
+      { "parameter": "Calories from Fat", "result": "898.65 kcal", "method": "JL/CS/STP/015" },
+      { "parameter": "Total Fat", "result": "99.85 gm", "rda": "149.03%", "method": "IS 4684" },
+      { "parameter": "Saturated Fat", "result": "73.15 gm", "rda": "332.50%", "method": "AOAC 22nd Edition 996.06:2023" },
+      { "parameter": "Monounsaturated Fat (MUFA)", "result": "22.49 gm", "significance": "Healthy heart fats that support lipid profile", "method": "AOAC 22nd Edition 996.06:2023" },
+      { "parameter": "Polyunsaturated Fat (PUFA)", "result": "2.81 gm", "method": "AOAC 22nd Edition 996.06:2023" },
+      { "parameter": "Trans Fat", "result": "1.40 gm", "significance": "Naturally occurring vaccenic acid, ZERO industrial hydrogenated trans-fats", "method": "AOAC 22nd Edition 996.06:2023" },
+      { "parameter": "Cholesterol", "result": "215.37 mg", "method": "JL/CS/STP/01" },
+      { "parameter": "Total Carbohydrate", "result": "Not Detected (0g)", "significance": "Zero carbs, strictly keto and carnivore compliant", "method": "IS 1656" },
+      { "parameter": "Sodium", "result": "Not Detected (0g)", "method": "IS 9497" },
+      { "parameter": "Dietary Fiber", "result": "Not Detected", "method": "AOAC 22nd Edition 993.21:2023" },
+      { "parameter": "Protein / Casein Solids", "result": "Not Detected (0g)", "significance": "Fully clarified, zero milk solids or casein residues", "method": "IS 7219" },
+      { "parameter": "Total Sugars / Lactose", "result": "Not Detected (0g)", "significance": "100% Lactose-free, safe for lactose-sensitive individuals", "method": "IS 4079" },
+      { "parameter": "Added Sugar", "result": "Not Detected (0g)", "method": "IS 4079" },
+      { "parameter": "Vitamin-A", "result": "873.0 mcg", "significance": "Rich natural bio-available Vitamin A for ocular health & immunity", "method": "JL/CS/STP/010" }
+    ],
+    "purity_verdict": "PASSED with 100% Purity Index. Conforms to Food Safety and Standards Authority of India (FSSAI) & Bureau of Indian Standards (BIS) norms."
+  },
+  "vedic_process": [
+    {
+      "step": 1,
+      "title": "Ethical Ahimsa Grazing",
+      "detail": "Indigenous purebred Bos Indicus Gir cows graze freely in organic open pastures, feeding on natural grass and medicinal flora (Neem, Tulsi, Shatavari). Calf is suckled first with reverence."
+    },
+    {
+      "step": 2,
+      "title": "A2 Whole Milk Boiling",
+      "detail": "Fresh raw A2 milk is boiled in heavy-bottomed brass vessels over low flame to preserve essential enzymes and micro-nutrients."
+    },
+    {
+      "step": 3,
+      "title": "Clay Pot Curd Culturing",
+      "detail": "The milk is allowed to cool and cultured overnight into whole curd inside natural terracotta earthen pots to develop beneficial probiotic strains."
+    },
+    {
+      "step": 4,
+      "title": "Two-Way Wooden Bilona Churning",
+      "detail": "Early morning Brahma Muhurta churning using a traditional wooden churner (valona) pulled bi-directionally with natural jute ropes to separate golden cultured makkhan (butter)."
+    },
+    {
+      "step": 5,
+      "title": "Gentle Chulha Clarification",
+      "detail": "Makkhan is slow-cooked over gentle heat generated from cow-dung cakes and firewood in earthen/bronze pans until crystal clear golden ghee with golden aroma and granular (danedar) texture emerges."
+    }
+  ],
+  "health_benefits": [
+    {
+      "title": "Gut Lining & Digestion (Butyric Acid)",
+      "desc": "Rich in short-chain fatty acid Butyrate which fuels colonic cell regeneration, decreases intestinal inflammation, and lubricates the digestive tract."
+    },
+    {
+      "title": "A2 Beta-Casein Protein (No BCM-7)",
+      "desc": "Derived solely from native Indian humped Gir cows having proline at position 67 of beta-casein, preventing release of inflammatory BCM-7 opioid peptide found in Western Jersey A1 cow milk."
+    },
+    {
+      "title": "High Smoke Point (250°C / 482°F)",
+      "desc": "Unlike vegetable seed oils and butter, Gautattva Ghee will not smoke, burn or oxidize into harmful carcinogens during high-heat Indian tadkas or frying."
+    },
+    {
+      "title": "Brain Ojas & Cognitive Memory",
+      "desc": "Celebrated in Charaka Samhita as a premier 'Medhya Rasayana' that nourishes neurons, balances Vata and Pitta doshas, and supports deep restorative sleep."
+    },
+    {
+      "title": "Zero Lactose & Zero Casein Residue",
+      "desc": "Independent laboratory testing confirms 'Not Detected' for sugars and proteins. Safe for those allergic or intolerant to dairy."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How is Gautattva A2 Ghee different from commercial market ghee?",
+      "a": "Commercial market ghee is produced from buffalo or hybrid jersey cows using direct milk cream (malai) centrifugal separation and chemical heating. Gautattva uses ONLY cultured whole curd from indigenous Gir cows churned using authentic wooden bilona according to Vedic guidelines."
+    },
+    {
+      "q": "Can lactose-intolerant people consume this ghee?",
+      "a": "Yes! Certified lab analysis by Jagdamba Laboratories (Report JLFD260702144) verified Total Sugars (Lactose) as 'Not Detected'. The slow clarification process eliminates all milk solids."
+    },
+    {
+      "q": "Why does the texture look granular (danedar)?",
+      "a": "The grainy danedar texture is the hallmark of genuine, unadulterated Bilona ghee prepared from cultured curd and cooled naturally in room temperature glass jars. Uniform liquid or wax-like ghee usually indicates machine processing or hydrogenated fat."
+    },
+    {
+      "q": "How should I store it?",
+      "a": "Store in a cool, dry place away from direct sunlight. Do not refrigerate. Always use a clean, dry spoon."
+    },
+    {
+      "q": "What is the WhatsApp Reorder Engine?",
+      "a": "When your order is delivered via Shiprocket, Gautattva's automated system starts a jar-size timer (Day 25 for 500ml, Day 50 for 1L, Day 90 for 2L). Right when your jar is about to finish, you receive a gentle WhatsApp message with a pre-filled 1-tap Razorpay payment link so you never run out of pure ghee!"
+    }
+  ]
+}
